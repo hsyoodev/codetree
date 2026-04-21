@@ -6,7 +6,7 @@ public class Main {
         int n = scanner.nextInt();
         int m = scanner.nextInt();
 
-        printRect(2, 3);
+        printRect(n, m);
     }
 
     public static void printRect(int n, int m) {
